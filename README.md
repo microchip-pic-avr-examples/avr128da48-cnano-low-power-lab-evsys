@@ -68,13 +68,13 @@ The following MCC configurations must be made for this project:
 <br><img src="images/evsys.png" width="500">
 <br><img src="images/evsys2.png" width="500">
 
--Pin Module 
+- Pin Module 
 	1. PC2 set as EVOUTC output with ISC on Sense both Edges
 
 <br><img src="images/pin_mapping.png" width="500">
 <br><img src="images/pin_manager.png" width="500">
 	
--Interrupt Manager
+- Interrupt Manager
 	1. Enable global interrupts
 <br><img src="images/interrupts.png" width="500">
 
