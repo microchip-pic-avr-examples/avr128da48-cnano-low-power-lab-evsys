@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-low-power-lab-evsys",
-        "version": "1.0.0",
+        "version": "1.0.2",
         "displayName": "AVR DA family training - Low Power Using ADC and Event System",
         "projectName": "avr128da48-cnano-low-power-lab-evsys",
         "shortDescription": "This repository provides an MPLAB X IDE project with an MCC (MPLAB Code Configurator) generated code example for starting ADC conversion on the temperature channel with the Event System",
